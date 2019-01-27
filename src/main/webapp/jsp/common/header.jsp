@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    李娟111111家常菜
+                    家常菜管理系统
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
@@ -26,7 +26,7 @@
                         <img class="nav-user-photo" src="../assets/avatars/user.jpg" alt="Jason's Photo" />
                         <span class="user-info">
                             <small>欢迎光临,</small>
-                            小同学
+                            admin---
                         </span>
                     </a>
                 </li>
